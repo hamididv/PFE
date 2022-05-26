@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/images/team-logo.png": "683810527154223d4f2ebf0e1d1dd8b0",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "08120ee49d979dab0ece20f620bf0f78",
+"assets/NOTICES": "a64ea05a487be1bf9b3812fb8a862ac6",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
@@ -25,9 +25,9 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4caa23cae5dd533a3013965dda7af14c",
-"/": "4caa23cae5dd533a3013965dda7af14c",
-"main.dart.js": "b6a2d61e8eafc707643a793c12888a96",
+"index.html": "230d6ad4e9b9095731c0093a44cee887",
+"/": "230d6ad4e9b9095731c0093a44cee887",
+"main.dart.js": "7153269fa02eb8265dd2efeb1a32504a",
 "manifest.json": "43fdae708430d1e2d69aa2dfdccb9cfb",
 "version.json": "33e46af153ce83a0023f974ffb9f31d2"
 };
